@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Nishant4028/nishant4028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Microsoft-Certified Azure DevOps Engineer  Cloud Automation Specialist  CI/CD Architect  Kubernetes Enthusiast
+Hi, I’m Nishant Gawande, a DevOps Engineer with 3.5+ years of experience architecting secure, scalable, and automation-driven cloud infrastructure. I work closely with Microsoft’s Autopilot/Pilotfish platforms through Tata Consultancy Services, leading monthly security patch rollouts and compliance deployments across global environments.
+🔧 I specialize in Azure, Azure DevOps, Kubernetes (AKS), and Terraform, with deep expertise in building cross-platform CI/CD pipelines that integrate security, quality, and deployment automation. My pipelines are designed to be resilient, developer-friendly, and production-grade—whether running on Windows agents or Dockerized Jenkins containers.
 
-Here are some ideas to get you started:
+📈 My journey has evolved from embedded OS support to cloud-native DevOps leadership, with a focus on modularization, error-proofing, and platform independence. I thrive on solving real-world problems, sharing technical guides, and continuously refining infrastructure for reliability and scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills Snapshot
+
+| **Category**               | **Tools & Technologies**                                                              |
+|----------------------------|----------------------------------------------------------------------------------------|
+| **Cloud Platforms**        | Azure, Azure DevOps, AKS                                                              |
+| **Infrastructure as Code**| Terraform, Helm                                                                        |
+| **CI/CD & Automation**     | Jenkins, Azure Pipelines, SonarQube                                                   |
+| **Scripting**              | Python, Shell                                                                          |
+| **Configuration Management** | Ansible                                                                             |
+| **Security & Compliance**  | S360                                                                                   |
+| **Platform Expertise**     | Windows, Linux, Docker containers, cross-platform troubleshooting                     |
+
+
+
+
+
